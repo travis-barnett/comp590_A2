@@ -2,13 +2,18 @@
 
 Travis Barnett A2 Submission:
 
-Neighboring Pixel Implementation:
+Neighboring Pixel Implementation:\n
+
 -/src/NeighboringPixelACEncodeVideo.java
+
 -/src/NeighboringPixelACDecodeVideo.java
 
 Temporal Neighboring Pixel Implementation:
+
 -/src/TemporalNeighboringPixelACEncodeVideo.java
+
 -/src/TemporalNeighboringPixelACDecodeVideo.java
+
 
 A2 Writeup doc submitted seperately
 

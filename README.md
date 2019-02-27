@@ -1,5 +1,18 @@
 # COMP590Spring2019-ArithmeticCoder
 
+Travis Barnett A2 Submission:
+
+Neighboring Pixel Implementation
+-/src/NeighboringPixelACEncodeVideo.java
+-/src/NeighboringPixelACDecodeVideo.java
+
+Temporal Neighboring Pixel Implementation
+-/src/TemporalNeighboringPixelACEncodeVideo.java
+-/src/TemporalNeighboringPixelACDecodeVideo.java
+
+A2 Writeup doc submitted seperately
+
+
 Arithmetic coder example from class
 
 The text file encoder produces a file with the following format:
